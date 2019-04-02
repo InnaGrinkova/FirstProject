@@ -53,9 +53,9 @@ public class HomePage {
     public By findLink2(){return text2;}
 
     private By passwordField = By.xpath("//*[@id=\"register-form-password\"]");
-    public By getPasswordField(){return passwordField;}
+/*    public By getPasswordField(){return passwordField;}
 
     private By passwordField = By.name();
-    public By getPasswordField(){return passwordField;}
+    public By getPasswordField(){return passwordField;}*/
 }
 
